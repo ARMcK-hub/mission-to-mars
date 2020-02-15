@@ -31,7 +31,8 @@ mongo = PyMongo(app, uri="mongodb://localhost:27017/houston")
 @app.route("/")
 def index():
     from_ground_control = mongo.db.ground_control.find_one()
-    return render_template("earth.html", from_ground_control=from_ground_control)
+    gc_img_list = from_ground_control['mars_hem_dict']
+    return render_template("earth.html", from_ground_control=from_ground_control, gc_img_list=gc_img_list)
 
 
 @app.route("/scrape")

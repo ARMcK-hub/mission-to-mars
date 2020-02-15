@@ -120,10 +120,11 @@ def houston():
         
         # scraping items per image
         title = soup.find('h2', class_='title').text.strip()
-        img_url = soup.find('a', text='Original')['href']
+        img_url = 'https://astrogeology.usgs.gov/' + soup.find('img', class_='wide-image')['src']
+        dl_img_url = soup.find('a', text='Original')['href']
         
         # appending image items to dictionary
-        mars_hem_dict.append({'title' : title, 'img_url' : img_url})
+        mars_hem_dict.append({'title' : title, 'img_url' : img_url ,'dl_img_url' : dl_img_url})
         
         
         # navigating back to master page list
