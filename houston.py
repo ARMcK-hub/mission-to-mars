@@ -10,7 +10,7 @@ from flask_pymongo import PyMongo
 import mission_to_mars
 
 ### DEV TOOLS ###
-dev_mode = False
+dev_mode = True
 
 
 # Flask App Setup

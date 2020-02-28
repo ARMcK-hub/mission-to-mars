@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\armck\\AppData\\Local\\Continuum\\anaconda3\\envs\\PythonData\\python.exe"
+    "python.pythonPath": "C:\\Users\\armck\\AppData\\Local\\Continuum\\anaconda3\\envs\\PythonData\\python.exe",
+    "liveServer.settings.port": 5501
 }
