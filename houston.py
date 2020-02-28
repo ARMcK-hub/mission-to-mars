@@ -10,7 +10,7 @@ from flask_pymongo import PyMongo
 import mission_to_mars
 
 ### DEV TOOLS ###
-dev_mode = True
+dev_mode = False
 
 
 # Flask App Setup
@@ -44,5 +44,5 @@ def scraper():
 
 
 if __name__ == "__main__":
-    # if dev_mode:
-    app.run(debug=True)
+    if dev_mode:
+        app.run(debug=True)

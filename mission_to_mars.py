@@ -29,8 +29,17 @@ def houston():
     # Create BeautifulSoup object; parse with 'html.parser'
     soup = BeautifulSoup(html, 'html.parser')
 
-    news_title = soup.find('div', class_='content_title').text.strip()
-    news_para = soup.find('div', class_='article_teaser_body').text.strip()
+    # Handeling unknown, internal BS4 errors that occur on 1st run
+    try:
+        news_title = soup.find('div', class_='content_title').text.strip()
+        news_para = soup.find('div', class_='article_teaser_body').text.strip()
+
+    except:
+        browser.visit(url_nasa_news)
+        html = browser.html
+        soup = BeautifulSoup(html, 'html.parser')
+        news_title = soup.find('div', class_='content_title').text.strip()
+        news_para = soup.find('div', class_='article_teaser_body').text.strip()
 
     print('Done')
 
