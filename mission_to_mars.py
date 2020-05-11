@@ -33,7 +33,6 @@ def houston():
     try:
         news_title = soup.find('div', class_='content_title').text.strip()
         news_para = soup.find('div', class_='article_teaser_body').text.strip()
-
     except:
         executable_path = {'executable_path': 'chromedriver.exe'}
         browser = Browser('chrome', **executable_path, headless=True)

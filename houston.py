@@ -17,8 +17,13 @@ dev_mode = True
 app = Flask(__name__)
 
 
-# MongoDB Setup
-mongo = PyMongo(app, uri="mongodb://localhost:27017/houston")
+# MongoDB & Debug mode Setup
+if dev_mode == True:
+    mongo = PyMongo(app, uri="mongodb://localhost:27017/houston")
+    debug_mode = True
+else:
+    mongo = PyMongo(app, uri="mongodb://localhost:27017/houston")
+    debug_mode = False
 
 
 
@@ -44,5 +49,5 @@ def scraper():
 
 
 if __name__ == "__main__":
-    if dev_mode:
-        app.run(debug=True)
+    app.run(debug=debug_mode)
+
