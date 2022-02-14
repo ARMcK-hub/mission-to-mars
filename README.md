@@ -14,10 +14,10 @@ Version Author: Drew McKinney
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-![GitHub last commit](https://img.shields.io/github/last-commit/ARMcK-hub/Mission-to-Mars)
+![GitHub last commit](https://img.shields.io/github/last-commit/ARMcK-hub/mission-to-mars)
 [![MIT License][license-shield]][license-url]
-![GitHub top language](https://img.shields.io/github/languages/top/ARMcK-hub/Mission-to-Mars)
-![GitHub repo size](https://img.shields.io/github/repo-size/ARMcK-hub/Mission-to-Mars)
+![GitHub top language](https://img.shields.io/github/languages/top/ARMcK-hub/mission-to-mars)
+![GitHub repo size](https://img.shields.io/github/repo-size/ARMcK-hub/mission-to-mars)
 ![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fwestendfinancial.herokuapp.com%2F)
 
 <!-- PROJECT LOGO -->
@@ -34,9 +34,9 @@ Version Author: Drew McKinney
     <br />
     <a href="https://mars2houston.herokuapp.com/" target="_blank"><strong> >> Visit Demo >> </strong></a>
     <br />
-    <a href="https://github.com/ARMcK-hub/Mission-to-Mars/issues">Report Bug</a>
+    <a href="https://github.com/ARMcK-hub/mission-to-mars/issues">Report Bug</a>
     -
-    <a href="https://github.com/ARMcK-hub/Mission-to-Mars/issues">Request Feature</a>
+    <a href="https://github.com/ARMcK-hub/mission-to-mars/issues">Request Feature</a>
   </p>
 </p>
 
@@ -112,14 +112,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- Project Dynamic -->
-[license-shield]: https://img.shields.io/github/license/ARMcK-hub/Mission-to-Mars.svg?style=flat
-[contributors-shield]: https://img.shields.io/github/contributors/ARMcK-hub/Mission-to-Mars.svg?style=flat
-[contributors-url]: https://github.com/ARMcK-hub/Mission-to-Mars/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ARMcK-hub/Mission-to-Mars.svg?style=flat
-[forks-url]: https://github.com/ARMcK-hub/Mission-to-Mars/network/members
-[stars-shield]: https://img.shields.io/github/stars/ARMcK-hub/Mission-to-Mars.svg?style=flat
-[stars-url]: https://github.com/ARMcK-hub/Mission-to-Mars/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ARMcK-hub/Mission-to-Mars.svg?style=flat
-[issues-url]: https://github.com/ARMcK-hub/Mission-to-Mars/issues
-[product-screenshot]: https://raw.githubusercontent.com/ARMcK-hub/Mission-to-Mars/master/static/images/Home_Page.png
+[license-shield]: https://img.shields.io/github/license/ARMcK-hub/mission-to-mars.svg?style=flat
+[contributors-shield]: https://img.shields.io/github/contributors/ARMcK-hub/mission-to-mars.svg?style=flat
+[contributors-url]: https://github.com/ARMcK-hub/mission-to-mars/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ARMcK-hub/mission-to-mars.svg?style=flat
+[forks-url]: https://github.com/ARMcK-hub/mission-to-mars/network/members
+[stars-shield]: https://img.shields.io/github/stars/ARMcK-hub/mission-to-mars.svg?style=flat
+[stars-url]: https://github.com/ARMcK-hub/mission-to-mars/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ARMcK-hub/mission-to-mars.svg?style=flat
+[issues-url]: https://github.com/ARMcK-hub/mission-to-mars/issues
+[product-screenshot]: https://raw.githubusercontent.com/ARMcK-hub/mission-to-mars/master/static/images/Home_Page.png
 
