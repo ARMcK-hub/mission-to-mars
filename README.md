@@ -8,30 +8,30 @@
     </p>
     <p>
     <!-- Shields -->
-        <a href="https://github.com/armck-hub/mission-to-mars/LICENSE">
-            <img alt="License" src="https://img.shields.io/github/license/armck-hub/mission-to-mars.svg" />
+        <a href="https://github.com/armckinney/mission-to-mars/LICENSE">
+            <img alt="License" src="https://img.shields.io/github/license/armckinney/mission-to-mars.svg" />
         </a>
-        <a href="https://github.com/armck-hub/mission-to-mars/actions">
-            <img alt="Tests Passing" src="https://github.com/armck-hub/mission-to-mars/workflows/CI/badge.svg" />
+        <a href="https://github.com/armckinney/mission-to-mars/actions">
+            <img alt="Tests Passing" src="https://github.com/armckinney/mission-to-mars/workflows/CI/badge.svg" />
         </a>
-        <a href="https://codecov.io/gh/armck-hub/mission-to-mars">
-            <img alt="Code Coverage" src="https://codecov.io/gh/armck-hub/mission-to-mars/branch/master/graph/badge.svg" />
+        <a href="https://codecov.io/gh/armckinney/mission-to-mars">
+            <img alt="Code Coverage" src="https://codecov.io/gh/armckinney/mission-to-mars/branch/master/graph/badge.svg" />
         </a>
-        <a href="https://github.com/armck-hub/mission-to-mars/issues">
-            <img alt="Issues" src="https://img.shields.io/github/issues/armck-hub/mission-to-mars" />
+        <a href="https://github.com/armckinney/mission-to-mars/issues">
+            <img alt="Issues" src="https://img.shields.io/github/issues/armckinney/mission-to-mars" />
         </a>
-        <a href="https://github.com/armck-hub/mission-to-mars/pulls">
-            <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/armck-hub/mission-to-mars" />
+        <a href="https://github.com/armckinney/mission-to-mars/pulls">
+            <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/armckinney/mission-to-mars" />
         </a>
-        <a href="https://stackshare.io/armck-hub/mission-to-mars">
+        <a href="https://stackshare.io/armck/mission-to-mars">
             <img alt="StackShare.io" src="http://img.shields.io/badge/tech-stack-0690fa.svg?label=StackShare.io">
         </a>
     </p>
     <p>
     <!-- Links -->
-        <a href="https://github.com/armck-hub/mission-to-mars/issues/new/choose">Report Bug</a>
+        <a href="https://github.com/armckinney/mission-to-mars/issues/new/choose">Report Bug</a>
         ·
-        <a href="https://github.com/armck-hub/mission-to-mars/issues/new/choose">Request Feature</a>
+        <a href="https://github.com/armckinney/mission-to-mars/issues/new/choose">Request Feature</a>
     </p>
 </div>
 <br>
