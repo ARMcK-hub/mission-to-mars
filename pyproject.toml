@@ -6,7 +6,7 @@ authors = ["armckinney"]
 
 [tool.poetry.dependencies]
 python = "3.8.8"
-flask = "^2.0.3"
+flask = "^2.2.5"
 flask_pymongo = "^2.3.0"
 bs4 = "^0.0.1"
 requests = "^2.27.1"
